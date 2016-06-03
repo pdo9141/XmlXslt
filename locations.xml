@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<outdoor-clothes kind="shoes">
+  <location name="Toes n' Boots" city="Culver City" state="CA" zip="11111" />
+  <location name="The Happy Foot" city="Dodge" state="CO" zip="11122" />
+  <location name="Potat Toes" city="Presque Isle" state="ME" zip="11142-0199" />
+  <location name="Toe'ing the Mark" city="Fairfax" state="NJ" zip="11142-0199" />
+  <location name="Different Drummer" city="Boise" state="ID" zip="11221" />
+  <location name="Dry 'n Warm" city="Portland" state="ME" zip="32321" />
+</outdoor-clothes>
